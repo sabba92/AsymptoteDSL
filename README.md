@@ -1,7 +1,7 @@
 # AsymptoteDSL
-## Un DSL per creare immagini vettoriali tramite Asymptote
+Un DSL per creare immagini vettoriali tramite Asymptote
 
-_Domain-specific language_ (DSL) in linguaggio Scala che consente la produzione di immagini vettoriali utilizzando Asymptote, ponendo particolare attenzione alla creazione di figure geometriche e diagrammi, come ad esempio reti di Petri e diagrammi UML.
+AsymptoteDSL è un _domain-specific language_ (DSL) in linguaggio Scala che consente la produzione di immagini vettoriali utilizzando Asymptote, ponendo particolare attenzione alla creazione di figure geometriche e diagrammi, come ad esempio reti di Petri e diagrammi UML.
 Il codice produce in _output_ una rappresentazione dell’immagine desiderata, in diversi formati a scelta dell’utente, tramite la sola esecuzione del codice Scala.
 
 La _directory_ `src` contiene:
